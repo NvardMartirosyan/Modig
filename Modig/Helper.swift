@@ -1,0 +1,14 @@
+
+//
+//  Helper.swift
+//  Modig
+//
+//  Created by Nvard Martirosyan on 19.06.2018.
+//  Copyright © 2018 iOS_Gyumri. All rights reserved.
+//
+
+import Foundation
+
+public let categoriesArray = ["Accounting", "Airport", "Aquarium", "Gallery", "ATM", "Bakery", "Bank", "Bar", "Beauty salon", "Bowling", "Bus station", "Cafe", "Campground", "Car rental", "Car repair", "Casino", "Cemetery", "Church", "City hall", "Clothing store", "Courthouse", "Dentist", "Department store", "Doctor", "Electrician", "Electronics store", "Embassy", "Fire station", "Florist", "Funeral home", "Gas station", "GYM", "Hair care", "Hospital", "Insurance agency", "Jewelry store", "Laundry", "Lawyer", "Library", "Local government office", "Locksmith", "Lodging", "Meal delivery", "Movie rental", "Movie theater", "Museum", "Night club", "Painter", "Park", "Parking", "Pet store", "Pharmacy", "Physiotherapist", "Plumber", "Police", "Post office", "Real estate agency", "Restaurant", "School", "Shopping mall", "Spa", "Stadium", "Storage", "Store", "Subway station", "Supermarket", "Taxi stand", "Train station", "Travel agency", "Veterinary care", "ZOO"]
+
+public let categoriesDict = ["Accounting" : "accounting", "Airport" : "airport", "Aquarium" : "aquarium", "Gallery":"art_gallery", "ATM":"atm", "Bakery":"bakery", "Bank":"bank", "Bar":"bar", "Beauty salon":"beauty_salon", "Bowling":"bowling_alley", "Bus station":"bus_station", "Cafe":"cafe", "Campground":"campground", "Car rental":"car_rental", "Car repair":"car_repair", "Casino":"casino", "Cemetery":"cemetery", "Church":"church", "City hall":"city_hall", "Clothing store":"clothing_store", "Courthouse":"courthouse", "Dentist":"dentist", "Department store":"department_store", "Doctor":"doctor", "Electrician":"electrician", "Electronics store":"electronics_store", "Embassy":"embassy", "Fire station":"fire_station", "Florist":"florist", "Funeral home":"funeral_home", "Gas station":"gas_station", "GYM":"gym", "Hair care":"hair_care", "Hospital":"hospital", "Insurance agency":"insurance_agency", "Jewelry store":"jewelry_store", "Laundry":"laundry", "Lawyer":"lawyer", "Library":"library", "Local government office":"local_government_office", "Locksmith":"locksmith", "Lodging":"lodging", "Meal delivery":"meal_delivery", "Movie rental":"movie_rental", "Movie theater":"movie_theater", "Museum":"museum", "Night club":"night_club", "Painter":"painter", "Park":"park", "Parking":"parking", "Pet store":"pet_store", "Pharmacy":"pharmacy", "Physiotherapist":"physiotherapist", "Plumber":"plumber", "Police":"police", "Post office":"post_office", "Real estate agency":"real_estate_agency", "Restaurant":"restaurant", "School":"school", "Shopping mall":"shopping_mall", "Spa":"spa", "Stadium":"stadium", "Storage":"storage", "Subway station":"subway_station", "Supermarket":"supermarket", "Taxi stand":"taxi_stand", "Train station":"train_station", "Travel agency":"travel_agency", "Veterinary care":"veterinary_care", "ZOO":"zoo"]

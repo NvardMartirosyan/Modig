@@ -1,0 +1,57 @@
+
+/* Class = "UIButton"; normalTitle = "Skip for now"; ObjectID = "2gX-BM-SgR"; */
+"2gX-BM-SgR.normalTitle" = "Skip for now";
+
+/* Class = "UIButton"; normalTitle = "Turn On"; ObjectID = "3hi-Lx-Fb1"; */
+"3hi-Lx-Fb1.normalTitle" = "Turn On";
+
+/* Class = "UILabel"; text = "I Want To See"; ObjectID = "3mB-vC-Lem"; */
+"3mB-vC-Lem.text" = "I Want To See";
+
+/* Class = "UIButton"; normalTitle = "more"; ObjectID = "Ag5-sb-EhW"; */
+"Ag5-sb-EhW.normalTitle" = "more";
+
+/* Class = "UINavigationItem"; title = "Categores"; ObjectID = "CgO-kR-XTL"; */
+"CgO-kR-XTL.title" = "Categores";
+
+/* Class = "UISegmentedControl"; Jvw-ia-Wxl.segmentTitles[0] = "m"; ObjectID = "Jvw-ia-Wxl"; */
+"Jvw-ia-Wxl.segmentTitles[0]" = "m";
+
+/* Class = "UISegmentedControl"; Jvw-ia-Wxl.segmentTitles[1] = "Km"; ObjectID = "Jvw-ia-Wxl"; */
+"Jvw-ia-Wxl.segmentTitles[1]" = "Km";
+
+/* Class = "UILabel"; text = "Welcome to Modig"; ObjectID = "Wu8-Xp-GaN"; */
+"Wu8-Xp-GaN.text" = "Welcome to Modig";
+
+/* Class = "UILabel"; text = "distance"; ObjectID = "XxH-lS-okN"; */
+"XxH-lS-okN.text" = "distance";
+
+/* Class = "UIButton"; normalTitle = "Category >"; ObjectID = "aSV-sL-JjD"; */
+"aSV-sL-JjD.normalTitle" = "Category >";
+
+/* Class = "UILabel"; text = "Thanks for using Facebook! To make our app better for you, we bring updates to the App Store regularly."; ObjectID = "b93-oD-gLT"; */
+"b93-oD-gLT.text" = "Thanks for using Facebook! To make our app better for you, we bring updates to the App Store regularly.";
+
+/* Class = "UILabel"; text = "Please turn on your location"; ObjectID = "bRu-2C-gYu"; */
+"bRu-2C-gYu.text" = "Please turn on your location";
+
+/* Class = "UILabel"; text = "placeName"; ObjectID = "cUv-Fi-kcz"; */
+"cUv-Fi-kcz.text" = "placeName";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "fYR-Ev-Fr6"; */
+"fYR-Ev-Fr6.normalTitle" = "Continue";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "idB-QU-bJG"; */
+"idB-QU-bJG.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "kU4-N8-Wde"; */
+"kU4-N8-Wde.normalTitle" = "Continue";
+
+/* Class = "UILabel"; text = "About"; ObjectID = "lJT-OU-48N"; */
+"lJT-OU-48N.text" = "About";
+
+/* Class = "UILabel"; text = "distance"; ObjectID = "sfi-mD-CJB"; */
+"sfi-mD-CJB.text" = "distance";
+
+/* Class = "UILabel"; text = "PlaceName"; ObjectID = "vM5-UZ-J0g"; */
+"vM5-UZ-J0g.text" = "PlaceName";

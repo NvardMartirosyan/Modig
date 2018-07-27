@@ -1,0 +1,64 @@
+
+/* Class = "UIButton"; normalTitle = "Skip for now"; ObjectID = "2gX-BM-SgR"; */
+"2gX-BM-SgR.normalTitle" = "Пропустить сейчас";
+
+/* Class = "UIButton"; normalTitle = "Turn On"; ObjectID = "3hi-Lx-Fb1"; */
+"3hi-Lx-Fb1.normalTitle" = "Включить";
+
+/* Class = "UILabel"; text = "I Want To See"; ObjectID = "3mB-vC-Lem"; */
+"3mB-vC-Lem.text" = "Я хочу увидеть";
+
+/* Class = "UIButton"; normalTitle = "more"; ObjectID = "Ag5-sb-EhW"; */
+"Ag5-sb-EhW.normalTitle" = "Больше";
+
+/* Class = "UINavigationItem"; title = "Categores"; ObjectID = "CgO-kR-XTL"; */
+"CgO-kR-XTL.title" = "Категории";
+
+/* Class = "UISegmentedControl"; Jvw-ia-Wxl.segmentTitles[0] = "m"; ObjectID = "Jvw-ia-Wxl"; */
+"Jvw-ia-Wxl.segmentTitles[0]" = "м";
+
+/* Class = "UISegmentedControl"; Jvw-ia-Wxl.segmentTitles[1] = "Km"; ObjectID = "Jvw-ia-Wxl"; */
+"Jvw-ia-Wxl.segmentTitles[1]" = "км";
+
+/* Class = "UILabel"; text = "Welcome to Modig"; ObjectID = "Wu8-Xp-GaN"; */
+"Wu8-Xp-GaN.text" = "Добро пожаловать в Модиг";
+
+/* Class = "UILabel"; text = "distance"; ObjectID = "XxH-lS-okN"; */
+"XxH-lS-okN.text" = "расстояние";
+
+/* Class = "UIButton"; normalTitle = "Category >"; ObjectID = "aSV-sL-JjD"; */
+"aSV-sL-JjD.normalTitle" = "Категория >";
+
+/* Class = "UILabel"; text = "Thanks for using Facebook! To make our app better for you, we bring updates to the App Store regularly."; ObjectID = "b93-oD-gLT"; */
+"b93-oD-gLT.text" = "Спасибо за использование Facebook! Чтобы сделать наше приложение лучше для вас, мы регулярно приносим обновления в App Store.";
+
+/* Class = "UILabel"; text = "Please turn on your location"; ObjectID = "bRu-2C-gYu"; */
+"bRu-2C-gYu.text" = "Пожалуйста, включите свое местоположение";
+
+/* Class = "UILabel"; text = "placeName"; ObjectID = "cUv-Fi-kcz"; */
+"cUv-Fi-kcz.text" = "имяМесто";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "fYR-Ev-Fr6"; */
+"fYR-Ev-Fr6.normalTitle" = "Продолжать";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "idB-QU-bJG"; */
+"idB-QU-bJG.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "kU4-N8-Wde"; */
+"kU4-N8-Wde.normalTitle" = "Продолжать";
+
+/* Class = "UILabel"; text = "About"; ObjectID = "lJT-OU-48N"; */
+"lJT-OU-48N.text" = "О нас";
+
+/* Class = "UILabel"; text = "distance"; ObjectID = "sfi-mD-CJB"; */
+"sfi-mD-CJB.text" = "расстояние";
+
+/* Class = "UILabel"; text = "PlaceName"; ObjectID = "vM5-UZ-J0g"; */
+"vM5-UZ-J0g.text" = "имяМесто";
+
+
+
+
+
+
+
